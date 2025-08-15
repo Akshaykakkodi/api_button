@@ -13,12 +13,11 @@ Simple API for fast integration.
 Installation
 Add to your pubspec.yaml:
 
-text
 dependencies:
   api_button: ^1.0.0
 Then run:
 
-text
+
 flutter pub get
 Usage
 Import the package:
